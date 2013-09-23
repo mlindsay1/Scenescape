@@ -1,0 +1,7 @@
+To Do
+•	Expand web server/database users so that we can all access and interact with the database
+•	Create and share a Github repository for the Android and PHP code
+•	Add events to the database using SQL to insert from the spreadsheet
+o	Keep track of what events have been added to avoid duplicate events with unique keys
+•	Come up with a list of queries that will be required for working with the database AND in-app activities
+•	Determine how we are going to parse the return string from the database
