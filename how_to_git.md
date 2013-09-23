@@ -4,7 +4,10 @@ HOW TO GIT
  - In the git bash console:
  	- "git init"
  	- "git clone https://github.com/rob-meh/Scenescape.git"
-
+#The Pulling
+- To pull down any changes (should probably do everytime you start something )
+	- "git pull"
+	
 #The Pushining
 - If you've made changes and want to see which files you;ve changed :
 	- " git status "
